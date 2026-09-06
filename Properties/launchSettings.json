@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmailHub (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EmailHub (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
